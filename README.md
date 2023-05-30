@@ -1,2 +1,3 @@
-#Iris flower classifier
-This program classifies Iris flowers based on sepal width and petal width using KNN classifier model.
+# Iris flower classifier
+This program utilized K nearest neighbor classification model and training on iris flower data set to identify species of iris flower. Achieved 96% accuracy
+
